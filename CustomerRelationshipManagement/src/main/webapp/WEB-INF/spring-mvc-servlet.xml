@@ -33,7 +33,7 @@
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/graded3_customermanagement"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="myMySqlId420*"></property>
+		<property name="password" value="abcd1234"></property>
 	</bean>
 
 	<!-- session factory object -->
